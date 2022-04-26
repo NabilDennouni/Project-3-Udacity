@@ -4,7 +4,7 @@
 April 26 . 2022
 
 ### Project Title
-Post your Work on GitHub
+Post Your Work On GitHub
 
 ### Description
 In this project, you'll be simulating a realistic workflow to refactor your previous Project 2 using Git.

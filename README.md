@@ -1,7 +1,7 @@
 
 
-### Date created
-April 26 . 2022
+### Date Created
+April 26 2022
 
 ### Project Title
 Post Your Work On GitHub
@@ -10,8 +10,9 @@ Post Your Work On GitHub
 In this project, you'll be simulating a realistic workflow to refactor your previous Project 2 using Git.
 
 ### Files used
-Git commands Documentation
+Git Commands Documentation
 
 ### Credits
 git documentation https://git-scm.com/doc
+ https://stackoverflow.com/
 

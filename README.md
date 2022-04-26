@@ -13,5 +13,5 @@ In this project, you'll be simulating a realistic workflow to refactor your prev
 Git commands Documentation
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+git documentation https://git-scm.com/doc
 
